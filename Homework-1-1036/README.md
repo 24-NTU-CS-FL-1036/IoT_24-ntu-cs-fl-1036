@@ -1,12 +1,8 @@
 # Homework 2 — Dual-LED PWM Control with OLED Monitoring
 
-**Course:** Embedded IoT Systems
-**Student:** [Your Name] — [Roll No.] — BSCS Section 5A, Fall 2026
-**Platform:** ESP32 (Arduino-ESP32 core 3.x, PlatformIO) · Wokwi simulation · Physical ESP32 kit
-**Wokwi project link:** [PASTE YOUR WOKWI LINK HERE]
-**GitHub repository:** [PASTE YOUR REPOSITORY LINK HERE]
 
----
+
+
 
 ## 1. Project Overview
 
